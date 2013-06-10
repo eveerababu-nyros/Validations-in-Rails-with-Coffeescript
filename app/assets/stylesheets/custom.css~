@@ -1,0 +1,79 @@
+		.span2 {
+		     text-align:left;
+		}	
+		fradio {
+			margin-top:4px;
+		}
+		#myname,#fname,#lname {
+			background-image:url('/assets/user.png');
+			background-repeat:no-repeat;
+			background-position:left;
+			padding-left:20px;
+		}
+		#mypwd, #mycpwd {
+			background:white url('/assets/key.png');
+			background-repeat:no-repeat;
+			background-position:left;
+			padding-left:17px;
+		}
+		#phone {
+			background:white url('/assets/telephone.png');
+			background-repeat:no-repeat;
+			background-position:left;
+			padding-left:17px;
+		}
+		.datesel {
+			width:80px;
+		}
+		.span10, .span11 {
+			margin-top:10px;
+		}
+		.radio {
+			float:left;
+			margin-top:-10px;
+			margin-left:15px;
+		}
+		.radio:first-child {
+			margin-top:-15px;
+			margin-left:0px;
+		}
+		.genradio {
+			margin-top:30px;
+			margin-bottom:10px;
+		}
+		.pull-top {
+			margin-top:-10px;
+		}
+		.selection {
+			margin-bottom:15px;
+		}
+		span {
+			color:red;
+		}
+		
+		#alertmessage {
+			display:none;	
+		}
+
+		#progress {
+			width:0px;
+		}
+
+		.accountStyle {
+			box-shadow:0px 0px 10px rgba(20,20,20,0.5);
+			/*border-bottom-left-radius:20px;
+			border-bottom-right-radius:20px;*/
+			border-radius:10px;
+		}
+		@font-face {
+			font-family:myOwnFonts;
+			src: url('/assets/AlexBrush-Regular-OTF.otf');
+		}
+		h1 {
+			font-family:myOwnFonts !important;
+			color:inherit !important;
+			font-size:3em !important;
+			text-align:center !important;
+		}
+		
+

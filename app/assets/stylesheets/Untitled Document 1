@@ -1,0 +1,2 @@
+1. What is CoffeeScript?
+a. CoffeeScript is a programming language that transcompiles to JavaScript. The language adds syntactic sugar inspired by Ruby, Python and Haskell[1] to enhance JavaScript's brevity and readability, adding sophisticated features like list comprehension and pattern matching. CoffeeScript compiles predictably to JavaScript and programs can be written with less code, typically 1/3 fewer lines, with no effect on runtime performance.

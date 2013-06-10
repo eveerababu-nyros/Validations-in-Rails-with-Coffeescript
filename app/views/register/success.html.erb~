@@ -1,0 +1,9 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<h1> Success Page </h1>
+		<p> Username: <%= params[:username] %> </p>
+		<%= link_to "View", show_path %>
+	</body>
+</html>

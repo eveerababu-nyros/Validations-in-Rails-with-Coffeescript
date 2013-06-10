@@ -1,0 +1,13 @@
+<p>
+  <b>Name:</b>
+  <%= @reg[0].usrname %>
+</p>
+ 
+<p>
+  <b>Photo:</b>
+  <%= @reg[0].propic %>
+</p>
+ <h1> Welcome </h1>
+<br />
+ 
+<%= link_to 'Back to Registration Page', root_path %> 
